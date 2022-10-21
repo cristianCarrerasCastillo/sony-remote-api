@@ -1,0 +1,1 @@
+Este repositorio utiliza las funciones integradas de servidor http de la camara sony a6000 para poder controlar la camara de forma remota

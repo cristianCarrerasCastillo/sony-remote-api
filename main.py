@@ -35,7 +35,7 @@ def main():
     url = url.split('\\')
     url = url[0] + url [2] + url[4] + url[6] + url[8]
     link = str(url)
-    os.system('wget ' + link + " -P /media")
+    os.system('wget ' + link + " -P '/home/cristian/wokrspace/sony/sony remote api/media'")
 
 if __name__ == "__main__":
     main()
